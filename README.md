@@ -1,6 +1,3 @@
-
-package com.first;
-
 import java.util.Scanner;
 
 public class Factorial {
